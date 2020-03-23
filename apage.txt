@@ -1,0 +1,6 @@
+A Page with my Details
+Name: Chima, Maduka James
+Email: chima.mjames@gmail.com
+Slack Username: James Chima
+Track: Frontend
+Courses: HTML, CSS, and Javascript
